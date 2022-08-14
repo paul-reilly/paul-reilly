@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="to_fill_after_commit" width="100%"/>
+  <img src="https://raw.githubusercontent.com/paul-reilly/paul-reilly/main/imgs/YdBO.gif" width="100%"/>
 </div>
